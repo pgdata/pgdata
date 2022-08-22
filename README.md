@@ -1,4 +1,4 @@
-####  Olá, me chamo Pedro Garcia
+
 
   📚 Atualmente estudando Python 
 <div>
