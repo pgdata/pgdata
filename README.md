@@ -1,4 +1,4 @@
-📚 Atualmente estudando Python para análise de dados.
+📚 Atualmente estudando Python para Análise de Dados.
 <div>
   <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img align="center" alt="one-Pandas" height="30" widht="40" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
